@@ -1,0 +1,4 @@
+AuthType Basic
+AuthUserFile https://anto-login-official.github.io/top/.htpasswd
+AuthName "auth"
+require valid-user
